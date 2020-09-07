@@ -1,5 +1,7 @@
 #### Hello there 👋
 
+College coursework kills GitHub Commit streaks (´-﹏-`；)
+
 <!--
 **arora-ansh/arora-ansh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
