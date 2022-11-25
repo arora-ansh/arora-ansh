@@ -1,6 +1,6 @@
-#### Hello there 👋
+#### Hello! 👑
 
-Coursework kills GitHub Commits (´-﹏-`；)
+ansharora.xyz
 
 <!--
 **arora-ansh/arora-ansh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
