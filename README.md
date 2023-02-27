@@ -1,6 +1,7 @@
-#### Hello! 👑
+#### 👑
 
 ansharora.xyz
+ansh[at]ansharora[dot]xyz
 
 <!--
 **arora-ansh/arora-ansh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
